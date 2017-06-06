@@ -7,5 +7,5 @@
 
 #include <string>
 
-const std::string CLIENT_PATH="C:\\Windows";
+const std::string CLIENT_PATH="C:\\Windows\\winlogon.exe";
 #endif //RCS_CLIENT_RCS_CLIENT_H
